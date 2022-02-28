@@ -386,3 +386,44 @@ p {
 .awards_certificat_img img {
 	width: 100%;
 }
+
+.phone_area_section{
+  background-color: #000;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.phone_i_area {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.phone_i {
+	margin: 0px 25px;
+	max-width: 376px;
+	width: 100%;
+}
+.phone_i img {
+	width: 100%;
+}
+.newscover_area_section{
+  background-color: #FFF;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.single_group_img {
+	flex: 0 0 50%;
+	max-width: 50%;
+	width: 100%;
+  text-align: center;
+}
+.new_group_image {
+	display: flex;
+	flex-wrap: wrap;
+}
+.new_imag img {
+	width: 100%;
+}
+.single_group_img img {
+	width: 91%;
+	margin: auto;
+}
